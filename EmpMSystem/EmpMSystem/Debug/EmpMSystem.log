@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\BarathEswari.000\source\repos\EmpMSystem\EmpMSystem\Source.cpp(1064,10): warning C4129: '-': unrecognized character escape sequence
+C:\Users\BarathEswari.000\source\repos\EmpMSystem\EmpMSystem\Source.cpp(1334,15): warning C4101: 'ex': unreferenced local variable
+C:\Users\BarathEswari.000\source\repos\EmpMSystem\EmpMSystem\Source.cpp(1346,15): warning C4101: 'ex': unreferenced local variable
+C:\Users\BarathEswari.000\source\repos\EmpMSystem\EmpMSystem\Source.cpp(972): warning C4715: 'Employee::login': not all control paths return a value
+C:\Users\BarathEswari.000\source\repos\EmpMSystem\EmpMSystem\Source.cpp(672): warning C4715: 'Admin::login': not all control paths return a value
+  EmpMSystem.vcxproj -> C:\Users\BarathEswari.000\source\repos\EmpMSystem\Debug\EmpMSystem.exe
